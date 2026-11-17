@@ -1,0 +1,4 @@
+libreoffice
+libreoffice-calc
+fonts-ipaexfont
+fonts-noto-cjk
